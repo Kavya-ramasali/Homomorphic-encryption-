@@ -1,0 +1,34 @@
+homomorphic-encryption/
+│
+├── basics/
+│   ├── bfv_basics.py
+│   ├── ckks_basics.py
+│   ├── tfhe_intro.py
+│
+├── examples/
+│   ├── encrypted_addition.py
+│   ├── encrypted_multiplication.py
+│   ├── vector_operations.py
+│
+├── notebooks/
+│   ├── bfv_demo.ipynb
+│   ├── ckks_demo.ipynb
+│   ├── encrypted_ml.ipynb
+│
+├── applications/
+│   ├── encrypted_healthcare/
+│   ├── encrypted_finance/
+│   ├── private_inference/
+│
+├── benchmarks/
+│   ├── latency_test.py
+│   ├── memory_usage.py
+│
+├── research/
+│   ├── bfv_notes.md
+│   ├── ckks_notes.md
+│   ├── fhe_challenges.md
+│
+├── requirements.txt
+├── README.md
+└── LICENSE
